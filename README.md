@@ -13,7 +13,6 @@
 - Edit existing password records.
 - Delete saved records with confirmation.
 - Copy usernames and passwords to clipboard.
-- Password visibility toggle.
 - Data is stored locally in `localStorage` (no server needed).
 - Redux is used for state management.
 
