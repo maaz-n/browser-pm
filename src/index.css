@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+.password-field{
+    @apply px-4 py-2 border border-black rounded-[5px] sm:w-3/4
+}
+
+.record {
+    @apply bg-gray-800 text-white mx-10 my-5 py-3 rounded-xl
+}
+
+
+.site-options{
+    @apply w-fit
+}
+
+.record-field{
+    @apply font-bold
+}
+
+
+.record-btns button{
+    @apply px-3 py-1 rounded
+}
+
+/* .password-input-field{
+    @apply py-2 px-1
+} */
