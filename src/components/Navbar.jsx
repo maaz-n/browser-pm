@@ -7,7 +7,7 @@ const Navbar = () => {
           <div className="logo font-bold">BrowserPM</div>
           <div className="contribute flex items-center">
             <button className='bg-white rounded-md hover:bg-gray-200'>
-              <a href="https://github.com" target='_blank'>
+              <a href="https://github.com/maaz-n/browser-pm" target='_blank'>
                 <img src="/github.png" alt="" className='w-30' />
               </a>
             </button>
